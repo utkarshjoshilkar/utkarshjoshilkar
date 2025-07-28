@@ -1,36 +1,69 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://utkarshjoshilkar.io)
+[![Header](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://utkarshjoshilkar.io)
+
 <h1 align="center">Hi 👋, I'm Utkarsh Prakash Joshilkar</h1>
-<h3 align="center">A passionate JAVA developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h3 align="center">🚀 A passionate Java Developer from India</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjoshilkar&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshjoshilkar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/utkarsh_p_j" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh_p_j?logo=twitter&style=for-the-badge" alt="utkarsh_p_j" /></a> </p>
-
-- 🌱 I’m currently learning **spring framework**
-
-- 💬 Ask me about **Java , OOP ,Data structures**
-
-- 📫 How to reach me **utkarshjoshilkar@icloud.com**
-
-- ⚡ Fun fact **As a CS student, I’m coding to help build the future!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/utkarsh_p_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarsh_p_j" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/utkarsh-joshilkar-065290257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/utkarsh-joshilkar-065290257" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/utkarshjos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarshjos" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utkarshjoshilkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshjoshilkar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/onlyutkarshcumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="onlyutkarshcumu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkarshjoshilkar&label=Profile%20Views&color=0e75b6&style=flat" alt="utkarshjoshilkar" />
+  <a href="https://twitter.com/utkarsh_p_j">
+    <img src="https://img.shields.io/twitter/follow/utkarsh_p_j?logo=twitter&style=flat" alt="Twitter Follow">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding GIF">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshjoshilkar&show_icons=true&locale=en&layout=compact" alt="utkarshjoshilkar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshjoshilkar&show_icons=true&locale=en" alt="utkarshjoshilkar" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshjoshilkar&" alt="utkarshjoshilkar" /></p>
+- 🔭 I’m currently working on improving my **Java backend development skills**
+- 🌱 Currently learning the **Spring Framework**
+- 💬 Ask me about: **Java, OOPs, Data Structures**
+- 📫 Reach me at: **utkarshjoshilkar@icloud.com**
+- ⚡ Fun Fact: *As a CS student, I’m coding to help build the future!*
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/utkarsh_p_j"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/utkarsh-joshilkar-065290257"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" alt="LinkedIn"></a>
+  <a href="https://www.codechef.com/users/utkarshjos"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" alt="CodeChef"></a>
+  <a href="https://leetcode.com/utkarshjoshilkar"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" alt="LeetCode"></a>
+  <a href="https://auth.geeksforgeeks.org/user/onlyutkarshcumu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" alt="GFG"></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshjoshilkar&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshjoshilkar&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarshjoshilkar&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ Quote of the Day
+> "First, solve the problem. Then, write the code." – John Johnson
+
