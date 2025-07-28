@@ -1,4 +1,5 @@
-[![Header](https://github.com/rudrabarad/Gifs/blob/main/Developer.gif?raw=true)](https://utkarshjoshilkar.io)
+[![Header](https://github.com/rudrabarad/Gifs/blob/main/Developer.gif)](https://utkarshjoshilkar.io)
+
 <h1 align="center">Hi 👋, I'm Utkarsh Prakash Joshilkar</h1>
 <h3 align="center">🚀 A passionate Java Developer from India</h3>
 
