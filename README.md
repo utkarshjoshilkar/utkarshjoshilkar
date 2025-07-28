@@ -1,6 +1,3 @@
-[![Header](https://mir-s3-cdn-cf.behance.net/project_modules/1400/fb8c5b68097599.5b78f2e5c3474.jpg)](https://utkarshjoshilkar.io)
-
-
 <h1 align="center">Hi 👋, I'm Utkarsh Prakash Joshilkar</h1>
 <h3 align="center">🚀 A passionate Java Developer from India</h3>
 
